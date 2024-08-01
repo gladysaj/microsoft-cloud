@@ -203,7 +203,7 @@ ISVs can create plugins using various tools, including Teams Message Extensions 
 - ISVs can create plugins using tools like Teams Message Extensions and Copilot Studio plugins.
 - Plugins can increase your solution's visibility and discoverability through Partner Center
 
-### Pattern B: Use Graph Connecters to bring your data to Copilot experiences
+### Pattern B: Use Graph Connectors to bring your data to Copilot experiences
 
 :::row:::
    :::column span="":::
